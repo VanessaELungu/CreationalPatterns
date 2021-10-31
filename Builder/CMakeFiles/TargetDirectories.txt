@@ -1,0 +1,3 @@
+/mnt/c/Users/vanessa.e.lungu/DesignPatterns/Builder/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/vanessa.e.lungu/DesignPatterns/Builder/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vanessa.e.lungu/DesignPatterns/Builder/CMakeFiles/a.out.dir

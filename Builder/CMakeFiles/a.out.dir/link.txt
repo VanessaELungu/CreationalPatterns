@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/a.out.dir/src/Car.cpp.o CMakeFiles/a.out.dir/src/Director.cpp.o CMakeFiles/a.out.dir/src/Ford.cpp.o CMakeFiles/a.out.dir/src/Maserati.cpp.o CMakeFiles/a.out.dir/main/Main.cpp.o  -o a.out 
