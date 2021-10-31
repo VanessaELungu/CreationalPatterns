@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/a.out.dir/src/singleton.cpp.o CMakeFiles/a.out.dir/main/main.cpp.o  -o a.out 

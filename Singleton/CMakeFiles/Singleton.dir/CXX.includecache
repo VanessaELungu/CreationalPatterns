@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/vanessa.e.lungu/DesignPatterns/Singleton/src/main.cpp
+iostream
+-
+singleton.h
+/mnt/c/Users/vanessa.e.lungu/DesignPatterns/Singleton/src/singleton.h
+
+/mnt/c/Users/vanessa.e.lungu/DesignPatterns/Singleton/src/singleton.cpp
+singleton.h
+/mnt/c/Users/vanessa.e.lungu/DesignPatterns/Singleton/src/singleton.h
+iostream
+-
+
+include/singleton.h
+
