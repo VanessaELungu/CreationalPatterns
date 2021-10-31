@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/a.out.dir/src/Circle.cpp.o CMakeFiles/a.out.dir/src/Rectangle.cpp.o CMakeFiles/a.out.dir/src/Square.cpp.o CMakeFiles/a.out.dir/main/main.cpp.o  -o a.out 
